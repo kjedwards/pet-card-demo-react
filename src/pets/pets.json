@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "returned_exact_matches": 7,
+  "pets": [
+    {
+      "primary_breed": "Calico",
+      "addr_city": "Minneapolis",
+      "pet_name": "Lolo",
+      "pet_id": "29274245",
+      "sex": "Female",
+      "age": "senior"
+    },
+    {
+      "special_needs": true,
+      "pet_id": "29249876",
+      "pet_name": "Berry",
+      "age": "kitten",
+      "sex": "Female",
+      "addr_city": "Minneapolis",
+      "primary_breed": "Domestic Shorthair"
+    },
+    {
+      "primary_breed": "Domestic Shorthair",
+      "addr_city": "Minneapolis",
+      "pet_name": "Momo",
+      "pet_id": "29137002",
+      "sex": "Female",
+      "age": "adult"
+    },
+    {
+      "special_needs": true,
+      "addr_city": "Minneapolis",
+      "primary_breed": "Domestic Mediumhair",
+      "age": "young",
+      "sex": "Female",
+      "pet_id": "29158424",
+      "pet_name": "Shinobi"
+    },
+    {
+      "primary_breed": "Domestic Mediumhair",
+      "addr_city": "Minneapolis",
+      "sex": "Female",
+      "age": "young",
+      "pet_name": "Shumo",
+      "pet_id": "29158352"
+    },
+    {
+      "primary_breed": "Domestic Longhair",
+      "addr_city": "Minneapolis",
+      "sex": "Male",
+      "age": "adult",
+      "pet_name": "Felix",
+      "pet_id": "29130814"
+    }
+  ]
+}
